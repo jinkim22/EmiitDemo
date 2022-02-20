@@ -1,7 +1,7 @@
 # README for Emiit AI Team's approach
 
 - Techniques used: Random Forest
-- Reference: RandomForest[https://towardsdatascience.com/random-forest-in-python-24d0893d51c0]
+- Reference: https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
 
 ## Key Points
 1. We created a random forest model to predict emission values for upcoming three months. Based on this model, we also perform feature importance analysis for each x variable. 
