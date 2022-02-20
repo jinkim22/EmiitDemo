@@ -1,6 +1,6 @@
 # README for Emiit AI Team's approach
 
-## Techniques used: Random Forest
+- Techniques used: Random Forest
 
 ## Key Points
 1. We created a random forest model to predict emission values for upcoming three months. Based on this model, we also perform feature importance analysis for each x variable. 
