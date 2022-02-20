@@ -8,7 +8,7 @@
 
 2. Our feature importance scores agree with our intuition that Logging Equipment and limestone users are one of the most important contributors to the future emission prediction.
 
-3.Further steps can include looking into advancing our feature selection process by comparing which features are important for different types of industries.
+3. Further steps can include looking into advancing our feature selection process by comparing which features are important for different types of industries.
 
 ## Observation on the training model
 
